@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+	font-family: 'Rubik-Medium';
+    background-color: #ffd381;
+}
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+}
+
+header {
+    background-color: #ffbf48;
+    text-align: center;
+    padding: 10px;
+}
+
+.title {
+    text-transform: uppercase;
+    font-size: 26px;
+    color: #070707;
+    text-shadow: 1px 1px 0 #ffffff;
+}
+
+@font-face {
+    src: url(./font/Rubik-Light.ttf);
+    font-family: 'Rubik-Light';
+    src: url(./font/Rubik-Medium.ttf);
+    font-family: 'Rubik-Medium';
+    
+}
