@@ -112,3 +112,10 @@ footer {
     src: url(./font/Rubik-Medium.ttf);
     font-family: 'Rubik-Medium';
 }
+
+
+@media (max-width:576px) {
+    .formContainer {
+        margin: auto;
+    }
+}
